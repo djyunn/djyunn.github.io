@@ -11,7 +11,7 @@ site-twitter: #if your site has a twitter account, enter it here
 # Author Settings
 author: Dongjun Yun # add your name
 author-img: DongjunYun.jpg # add your photo
-about-author: I do data analytics and modeling for fun :) # add description
+about-author: I do data analytics and modeling for fun # add description
 #social-twitter: # add your Twitter handle
 #social-facebook: # add your Facebook handle
 social-github: djyunn
